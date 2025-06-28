@@ -11,7 +11,6 @@
 
 - 🎓 Currently pursuing **MSc in Bioinformatics**
 - 🔬 Passionate about **Genomics, AI in Healthcare, Precision Medicine**, and **Tool Development**
-- 🧠 Building a **ChatGPT-like Universal Bioinformatics Model** to revolutionize **bioinformatics R&D**
 - 🛠️ Working with tools like **BLAST, PyMOL, AlphaFold, CRISPR-Cas9**, and **Machine Learning models**
 - 🎯 Strong believer in **open-source**, **interdisciplinary research**, and **collaborative science**
 - 🧬 Learning by doing: From **protein modeling** to **multi-omics**, I aim to connect AI with life sciences
@@ -41,29 +40,28 @@
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-mahindrakar-132394283)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/_notshubhamm_)
-
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/_notshubhamm_)  
+📧 **Email me** at `shubhammahindrakar2104@gmail.com` 
 ---
 
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamBioIT&show_icons=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBioIT&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamBioIT&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBioIT&theme=dark" width="49%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?user=ShubhamBioIT&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamBioIT&theme=dark" />
 </p>
 
 ---
 
 ### 🎯 Motto
 
-> *"Combining Artificial Intelligence with Biological Intelligence to decode the language of life."*
+> Combining Artificial Intelligence with Biological Intelligence to decode the language of life.
 
 ---
 
