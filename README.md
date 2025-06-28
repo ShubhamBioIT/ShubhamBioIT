@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamBioIT&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?user=ShubhamBioIT&theme=react-dark&hide_border=true" />
 </p>
 
 ---
