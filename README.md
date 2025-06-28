@@ -62,7 +62,7 @@
 
 ### 🎯 Motto
 
-> **Combining Artificial Intelligence with Biological Intelligence to decode the language of life.**
+ **Combining Artificial Intelligence with Biological Intelligence to decode the language of life.**
 
 ---
 
