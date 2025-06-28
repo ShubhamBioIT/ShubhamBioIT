@@ -17,10 +17,11 @@
 
 ---
 
-### 🔧 Tech Stack & Tools
+## 🔧 Tech Stack
 
-<img align="left" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,linux,bash,git,github,html,css,vscode,anaconda,jupyter,mysql" />
-<br clear="left"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,linux,jupyter,tensorflow,pytorch,html,css" alt="Tech Stack Icons">
+</p>
 
 - 🔍 **Bioinformatics**: BLAST+, ClustalW, NCBI, Ensembl, Pfam, PyMOL, ExPASy, ORF Finder  
 - 🧠 **AI/ML**: Scikit-learn, XGBoost, Deep Learning (CNNs, Transformers), GenAI
@@ -54,7 +55,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBioIT&theme=dark" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamBioIT&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamBioIT&theme=react-dark" />
 </p>
 
 ---
