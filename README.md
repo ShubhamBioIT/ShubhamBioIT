@@ -20,7 +20,7 @@
 ## 🔧 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,java,tensorflow,pytorch,html,css" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=python,r,linux,git,github,java,tensorflow,pytorch,html,css" alt="Tech Stack Icons">
 </p>
 
 - 🔍 **Bioinformatics**: BLAST+, ClustalW, NCBI, Ensembl, Pfam, PyMOL, ExPASy, ORF Finder  
