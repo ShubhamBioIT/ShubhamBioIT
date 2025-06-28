@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Shubham Mahindrakar</h1>
+<div align="center">
+    <h1>👨‍💻 Shubham Mahindrakar.</h1>
+</div>
 <h3 align="center">AI-Driven Bioinformatics Researcher | MSc Bioinformatics | Genomics | Precision Medicine | Tool Developer</h3>
 
 <p align="center">
