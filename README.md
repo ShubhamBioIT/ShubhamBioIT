@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&height=45&lines=Empowering+Genomics+through+AI;Bioinformatics+is+my+playground;Precision+Medicine+is+the+Future!" alt="Typing SVG" />
 </p>
 
----
+----
 
 ### 👨‍💻 About Me
 
