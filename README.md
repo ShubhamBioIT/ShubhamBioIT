@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>👨‍💻 Shubham Mahindrakar.</h1>
+    <h1>👨🏻‍💻 Shubham Mahindrakar.</h1>
 </div>
 <h3 align="center">AI-Driven Bioinformatics Researcher | MSc Bioinformatics | Genomics | Precision Medicine | Tool Developer</h3>
 
