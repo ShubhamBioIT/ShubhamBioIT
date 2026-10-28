@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing **MSc in Bioinformatics**
-- 🔬 Passionate about **Genomics, AI in Healthcare, Precision Medicine**, and **Tool Development**
+- 🎓 Completed **MSc in Bioinformatics**
+- 🔬 Passionate about **Multi-Omics, AI in Healthcare, Precision Medicine**, and **Tool Development**
 - 🛠️ Working with tools like **BLAST, PyMOL, AlphaFold, CRISPR-Cas9**, and **Machine Learning models**
 - 🎯 Strong believer in **open-source**, **interdisciplinary research**, and **collaborative science**
 - 🧬 Learning by doing: From **protein modeling** to **multi-omics**, I aim to connect AI with life sciences
